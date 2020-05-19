@@ -81,7 +81,7 @@ position: sticky;
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <a class="dropdown-item" href="admin_login.php">ADMIN</a>
     <a class="dropdown-item" href="manager_login.php">MANAGER</a>
-    <a class="dropdown-item" href="guest_login">GUEST</a>
+    <a class="dropdown-item" href="guest_login.php">GUEST</a>
   </div>
 </div>
 </div>
