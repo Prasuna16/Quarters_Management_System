@@ -1,6 +1,6 @@
 <?php 
  //connect to db
-	$conn = mysqli_connect('localhost', 'Prasuna', 'suna16', 'quarters_management');
+	$conn = mysqli_connect('localhost', '', '', 'quarters_management');
 
 	//check connection
 	if (!$conn) {
